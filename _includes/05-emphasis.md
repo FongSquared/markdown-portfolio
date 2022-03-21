@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I _program_ in **java**
+* I can _program_ in **R** too!
+* I hope to work in the _data science_ field in the future! 😃
