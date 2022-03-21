@@ -1,1 +1,1 @@
-https://github.com/FongSquared
+[My GitHub profile link](https://github.com/FongSquared)
